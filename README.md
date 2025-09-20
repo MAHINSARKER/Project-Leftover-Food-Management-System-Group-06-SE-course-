@@ -1,4 +1,4 @@
-# Project Implimentation
-This document describes the software implimentation.
-Note: The word 'implementation' is misspelled as 'implmentation' here.
+# Project Implementation
+This document describes the software implementation.
+Note: The word 'implementation' has been corrected.
 
